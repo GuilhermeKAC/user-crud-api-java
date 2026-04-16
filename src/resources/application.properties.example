@@ -1,4 +1,4 @@
 # Database Configuration
 db.url=jdbc:postgresql://localhost:5432/user_crud_db
-db.user=meuuser
-db.password=123456
+db.user=seu_usuario
+db.password=sua_senha
